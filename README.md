@@ -12,8 +12,8 @@ This repository contains Python exercises as part of the Full Stack Developer Pr
 ### Installation
 
 Clone the repository
-```bash
-git clone https://github.com/ibtehaz/procareer-academy-python.git
+    ```bash
+    git clone https://github.com/ibtehaz/procareer-academy-python.git
 
 ## Contact
 

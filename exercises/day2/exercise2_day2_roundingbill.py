@@ -34,3 +34,10 @@ Total_cost=meal_cost+tip+tax => 12+2.4+0.96=15.36
 Tip= meal+tip% => [(12*20)/100]=2.4
 Tax=meal+tax% => [ (12*8)/100] = 0.96
 """
+b = int(input("Enter cost of meal before tax and tip: "))
+t = int(input("What is the percentage being added as tip: ")) * b / 100
+f = int(input("What is the percentage being added as tax: ")) * b / 100
+
+total_cost = b + t + f
+
+print(round(total_cost))

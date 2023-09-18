@@ -1,8 +1,8 @@
-# Pro Career Academy Python Exercises 🐍
+# ProCareer Academy Python Exercises 🐍
 
 ## Overview
 
-This repository contains Python exercises as part of the Full Stack Developer Program at Pro Career Academy.
+This repository contains Python exercises as part of the Full Stack Developer Program at ProCareer Academy.
 
 ### Prerequisites
 
